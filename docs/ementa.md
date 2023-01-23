@@ -191,8 +191,8 @@ Janeiro: Campus, 2001.
 NULL, L.; LOBUR, J. Princípios Básicos de Arquitetura e Organização de
 Computadores. São Paulo: Bookman, 2010.
 
-Mark Mitchell, A. Samuel &J. Oldhan. Advanced Linux Programming. Editora New
+Mark Mitchell, A. Samuel & J. Oldhan. Advanced Linux Programming. Editora New
 Riders.
 
-Brian W. Kernighan &Dennis N. Ritchie. C: a linguagem de programação – padrão
+Brian W. Kernighan & Dennis N. Ritchie. C: a linguagem de programação – padrão
 ANSI, 15a edição. Editora Campus.
