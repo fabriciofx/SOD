@@ -1,0 +1,19 @@
+Plano de Aula Semanal
+
+
+Fundamentos de sistemas operacionais
+Funções e características de um SO
+Tipos de Sistemas Operacionais
+
+Monoprocessamento e Multiprocessamento
+Estrutura do Sistema Operacional
+O núcleo do sistema
+
+Conceitos de processos
+Gerência de Dispositivos de E/S
+
+Gerenciamento de memória
+Memória virtual
+
+Gerenciamento de arquivos
+Sistemas de arquivos
