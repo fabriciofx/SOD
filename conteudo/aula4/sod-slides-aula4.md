@@ -169,7 +169,7 @@ kbd {
 
 - Primeira escolha
   - Percorre a lista até que encontre o primeiro que caiba
-- Melhor escola
+- Melhor escolha
   - Busca a lista inteira e toma a menor partição
 - Pior escolha
   - Busca a lista inteira para a maior partição
@@ -215,7 +215,7 @@ kbd {
 
 ## Paginação
 
-- Paginas: unidades de tamanho fixo no dispositivo secundário
+- Páginas: unidades de tamanho fixo no dispositivo secundário
 - Frames: unidades correspondentes na memória física (RAM)
 - Page fault: é o evento quando uma página que não está na RAM é referenciada
   - Usa uma *trap* para carregar ou substituir uma página
