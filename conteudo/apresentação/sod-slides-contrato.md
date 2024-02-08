@@ -14,7 +14,7 @@ img[alt~="center"] {
 </style>
 
 <!-- _paginate: false -->
-# **Contrato Pedagógico SOD - 2023.1**
+# **Contrato Pedagógico SOD**
 
 ### Disciplina: Sistemas Operacionais Desktop (SOD)
 ### Professor Formador: Fabrício Barros Cabral
@@ -30,23 +30,13 @@ img[alt~="center"] {
 
 ## Horário de Tutoria
 
-|       | Segunda | Terça | Quarta | Quinta | Sexta |
-|-------|---------|-------|--------|--------|-------|
-| Manhã |         |       |        |        |       |
-| Tarde |         |  14h  |  14h   |        |       |
-| Noite |         |       |        |        |       |
-
+- Consultar o AVEA
+  
 ---
 
 ## Calendário
 
-| Evento                      |  Data                  |
-|-----------------------------|------------------------|
-| 1º Encontro Presencial (EP) | 13/05/2023, 8h às 10h  |
-| 2º Encontro Presencial (EP) | 03/06/2023, 8h às 10h  |
-| Avaliação Presencial (AP)   | 10/06/2023, 8h às 10h  |
-| 2ª Chamada                  | 17/06/2023, 13h às 15h |
-| Exame Final Presencial      | 15/07/2023, 10h às 12h |
+- Consultar o AVEA
 
 ---
 
@@ -104,7 +94,7 @@ Obs.: De acordo com a Organização Acadêmica, Art. 144 – Parágrafo Único: 
 
 $$Media → ME = NATD + NAP$$
 
-Caso ME ≥ 7,0, o/a estudante estará aprovado/a.
+Caso ME ≥ 6,0, o/a estudante estará aprovado/a.
 
 ---
 
@@ -168,7 +158,7 @@ X - força maior.*
 
 ## Exame Final
 
-- Caso o estudante obtenha média maior ou igual a 2,0  (dois) e menor que 7,0 (sete), estará automaticamente na final;
+- Caso o estudante obtenha média maior ou igual a 2,0  (dois) e menor que 6,0 (seis), estará automaticamente na final;
 - A Média Final para aprovação é 6,0 e é calculada da seguinte forma:
 
 $$ MF = \frac{ME + NEF}{2} $$
